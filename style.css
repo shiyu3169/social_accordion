@@ -111,3 +111,48 @@ header h1 {
 .youtube a:after {
   background: #ff0000;
 }
+
+.twitter a:before,
+.twitter a:after {
+  content: "\f202";
+}
+
+.twitter a:after {
+  background: #6dc5dd;
+}
+
+.facebook a:before,
+.facebook a:after {
+  content: "\f204";
+}
+
+.facebook a:after {
+  background: #3b5998;
+}
+
+.linkedin a:before,
+.linkedin a:after {
+  content: "\f208";
+}
+
+.linkedin a:after {
+  background: #00a8cd;
+}
+
+.instagram a:before,
+.instagram a:after {
+  content: "\f215";
+}
+
+.instagram a:after {
+  background: #6dc993;
+}
+
+.github a:before,
+.github a:after {
+  content: "\f200";
+}
+
+.github a:after {
+  background: #6e5494;
+}
